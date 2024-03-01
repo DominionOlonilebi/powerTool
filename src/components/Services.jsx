@@ -15,11 +15,11 @@ const Services = () => {
         </div>
 
         <Row>
-          <Col md={5}>
-            <img src="Images/pw1.jpg" alt="" width={400} />
+          <Col md={4}>
+            <img src="Images/pw1.jpg" alt="" width={300} />
           </Col>
 
-          <Col md={6}>
+          <Col md={8}>
             <h3>Global consultation</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

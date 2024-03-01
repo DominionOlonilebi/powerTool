@@ -9,7 +9,7 @@ const ProjectCard = () => {
         <h2 className="mb-4">A showcase of some of our projects</h2>
         <Container>
           <Row>
-            <Col md={4}>
+            <Col md={4} className="mb-3">
               <Card style={{ width: "21rem" }}>
                 <Card.Img variant="top" src="Images/pw9.jpg" alt="" />
                 <Card.Body>
@@ -24,7 +24,7 @@ const ProjectCard = () => {
                 </Card.Body>
               </Card>
             </Col>
-            <Col md={4}>
+            <Col md={4} className="mb-3">
               <Card style={{ width: "21rem" }}>
                 <Card.Img variant="top" src="Images/pw14.jpg" alt="" />
                 <Card.Body>
@@ -39,7 +39,7 @@ const ProjectCard = () => {
                 </Card.Body>
               </Card>
             </Col>
-            <Col md={4}>
+            <Col md={4} className="mb-3">
               <Card style={{ width: "21rem" }}>
                 <Card.Img variant="top" src="Images/pw8.jpg" alt="" />
                 <Card.Body>

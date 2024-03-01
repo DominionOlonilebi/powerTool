@@ -33,10 +33,11 @@ padding: 12px;
   background-size: cover;
   text-align: center;
   color: #e9e9e9;
+  padding-bottom: 15%;
 }
 
 .background_container h1 {
-  font-size: 48px;
+  font-size: 46px;
   padding-top: 150px;
   font-weight: 700;
 }
@@ -63,29 +64,7 @@ padding: 12px;
 }
 
 
-  /* firstsection */
-.firstsection_container {
-  margin-top: 120px;
-  color: #fff;
-}
-.firstsection_container h3 {
-  padding-top: 20px;
-  font-weight: 300;
-}
-.firstsection_container h6 p{
-  font-size: 16px;
-}
-.firstsection_container h6 span {
-  background-color: rgb(1, 2, 54);
-  padding: 5px 200px;
-  border-radius: 0px;
-}
-.firstsection_container h6 .faphone {
-  background-color: #fb6101;
-  border-color: #fb6101;
-  border-radius: 0px;
-}
-
+  /* card */
 .cards_container{
   background-image: linear-gradient(rgba(255, 254, 254, 0.8), rgba(245, 245, 245, 0.8)),
     url(pw13.jpg);

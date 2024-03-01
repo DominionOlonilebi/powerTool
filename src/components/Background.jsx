@@ -27,7 +27,6 @@ const Background = () => {
             </Col>
           </Row>
         </Container>
-        <FirstLayer />
       </Container>
     </div>
   );
