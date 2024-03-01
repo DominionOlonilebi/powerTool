@@ -4,7 +4,7 @@ import { FaArrowDown } from "react-icons/fa";
 
 const Services = () => {
   return (
-    <div className="service">
+    <div className="service" id="services">
       <Container className="services_container">
         <div className="services_heading">
           <h1>

@@ -3,7 +3,7 @@ import { Button, Card, Col, Container, Row } from "react-bootstrap";
 
 const ProjectCard = () => {
   return (
-    <div className="project_div">
+    <div className="project_div" id="careers">
       <h5 className="mb-3">Our portfolio</h5>
       <Container fluid className="project_container">
         <h2 className="mb-4">A showcase of some of our projects</h2>
