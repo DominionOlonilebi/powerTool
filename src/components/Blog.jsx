@@ -7,7 +7,7 @@ const Blog = () => {
       <Container className="blog_container">
         <h4 className="mb-4">Latest information from our blog</h4>
         <hr className="blog_line mb-4" />
-        <Row>
+        <Row className="d-flex flex-row justify-content-center">
           <Col md={4} className="mb-3">
             <img src="Images/pw5.jpg" alt="" className="img-fluid" />
           </Col>

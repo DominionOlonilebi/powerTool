@@ -10,8 +10,13 @@ const ProjectCard = () => {
         <Container>
           <Row>
             <Col md={4} className="mb-3">
-              <Card style={{ width: "21rem" }}>
-                <Card.Img variant="top" src="Images/pw9.jpg" alt="" />
+              <Card>
+                <Card.Img
+                  variant="top"
+                  src="Images/pw9.jpg"
+                  alt=""
+                  className="img-fluid"
+                />
                 <Card.Body>
                   <Card.Title>
                     <b>Lorem ipsum dolor sit amet</b>
@@ -25,8 +30,13 @@ const ProjectCard = () => {
               </Card>
             </Col>
             <Col md={4} className="mb-3">
-              <Card style={{ width: "21rem" }}>
-                <Card.Img variant="top" src="Images/pw14.jpg" alt="" />
+              <Card>
+                <Card.Img
+                  variant="top"
+                  src="Images/pw14.jpg"
+                  alt=""
+                  className="img-fluid"
+                />
                 <Card.Body>
                   <Card.Title>
                     <b>Lorem ipsum dolor sit amet</b>
@@ -40,8 +50,13 @@ const ProjectCard = () => {
               </Card>
             </Col>
             <Col md={4} className="mb-3">
-              <Card style={{ width: "21rem" }}>
-                <Card.Img variant="top" src="Images/pw8.jpg" alt="" />
+              <Card>
+                <Card.Img
+                  variant="top"
+                  src="Images/pw8.jpg"
+                  alt=""
+                  className="img-fluid"
+                />
                 <Card.Body>
                   <Card.Title>
                     <b>Lorem ipsum dolor sit amet</b>

@@ -26,6 +26,7 @@ const Background = () => {
               <Button className="background_btn">Purchase</Button>
             </Col>
           </Row>
+          <FirstLayer />
         </Container>
       </Container>
     </div>

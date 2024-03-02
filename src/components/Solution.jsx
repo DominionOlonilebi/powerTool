@@ -8,10 +8,10 @@ const Solution = () => {
         <b>Solutions</b>
       </h5>
       <Container fluid className="solution_container">
-        <h2 className="mb-4">Power tools the solution provider</h2>
+        <h2 className="mb-5">Power tools the solution provider</h2>
         <Container>
           <Row className="d-flex flex-row justify-content-center">
-            <Col md={4} className="mb-3">
+            <Col md={4} className="mb-4">
               <h2>01 _________________</h2>
               <h5>Equipment solutions and maintenance</h5>
               <p>
@@ -20,7 +20,7 @@ const Solution = () => {
                 eget nullam.
               </p>
             </Col>
-            <Col md={4} className="mb-3">
+            <Col md={4} className="mb-4">
               <h2>02 _________________</h2>
               <h5>Equipment solutions and maintenance</h5>
               <p>
@@ -31,7 +31,7 @@ const Solution = () => {
             </Col>
           </Row>
           <Row className="d-flex flex-row justify-content-center">
-            <Col md={4} className="mb-3">
+            <Col md={4} className="mb-4">
               <h2>03 _________________</h2>
               <h5>Equipment solutions and maintenance</h5>
               <p>
@@ -40,7 +40,7 @@ const Solution = () => {
                 eget nullam.
               </p>
             </Col>
-            <Col md={4} className="mb-3">
+            <Col md={4} className="mb-4">
               <h2>04 _________________</h2>
               <h5>Equipment solutions and maintenance</h5>
               <p>

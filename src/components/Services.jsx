@@ -16,7 +16,7 @@ const Services = () => {
 
         <Row>
           <Col md={4}>
-            <img src="Images/pw1.jpg" alt="" width={300} />
+            <img src="Images/pw1.jpg" alt="" width={350} />
           </Col>
 
           <Col md={8}>
@@ -29,10 +29,10 @@ const Services = () => {
               aliqua. Congue quisque egestas diam in arcu cursus. Maecenas
               accumsan lacus vel facilisis volutpat est velit egestas.
             </p>
-            <h6 className="mt-4">
+            <h6 className="mt-4 mb-3">
               <Button className="service_btn">Learn more</Button>
 
-              <div className="btn-group mx-4">
+              <div className="btn-group mx-2">
                 <Button className="faarow">
                   <FaArrowDown />
                 </Button>{" "}
