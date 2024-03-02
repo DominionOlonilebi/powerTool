@@ -16,13 +16,13 @@
   .header_container {
     color: #fff;
     background-color:rgb(1, 1, 54);
-padding: 12px;
+padding: 7px;
   }
   .header_container  span{
     color: #fb6101;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
   }
 
 
@@ -37,7 +37,7 @@ padding: 12px;
 
 .background_container h1 {
   font-size: 40px;
-  padding-top: 125px;
+  padding-top: 110px;
   font-weight: 700;
 }
 .background_container span{
@@ -51,7 +51,7 @@ padding: 12px;
   border-color: #fb6101;
   border-radius: 0px;
   padding: 8px 30px;
-  margin-bottom: 250px;
+  margin-bottom: 180px;
   margin-top: 10px;
   font-size: 17px;
 
@@ -73,12 +73,15 @@ padding: 12px;
   background-size: cover;
   margin-top: -55px;
   padding-top: 60px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   text-align: center;
   color: #080130;
 }
 .cards_container h5{
   font-weight: 700;
+}
+.cards_container p {
+  font-size: 17px;
 }
 .cards_container .cards_icon{
   color: #fb6101;

@@ -15,8 +15,8 @@ const Services = () => {
         </div>
 
         <Row>
-          <Col md={4}>
-            <img src="Images/pw1.jpg" alt="" width={350} />
+          <Col md={4} className="mb-3">
+            <img src="Images/pw1.jpg" alt="" width={335} />
           </Col>
 
           <Col md={8}>

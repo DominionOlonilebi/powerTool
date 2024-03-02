@@ -16,7 +16,7 @@ const Background = () => {
                 <br /> our <span>oil</span> and <span>gas</span> equipment
                 solutions
               </h1>
-              <hr className="background_line" />
+              <hr className="background_line mb-4" />
               <p>
                 Lorem ipsum dolor sit, amet conse aut volupt ctetur adipisicing
                 elit.
