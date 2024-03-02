@@ -9,13 +9,13 @@ const Blog = () => {
         <hr className="blog_line mb-4" />
         <Row className="d-flex flex-row justify-content-center">
           <Col md={3} className="mb-4">
-            <img src="Images/pw16.jpg" alt="" width={330} />
+            <img src="Images/pw16.jpg" alt="" width={278} />
           </Col>
           <Col md={3} className="mb-4">
-            <img src="Images/pw11.jpg" alt="" width={330} />
+            <img src="Images/pw11.jpg" alt="" width={278} />
           </Col>
           <Col md={3} className="mb-4">
-            <img src="Images/pw16.jpg" alt="" width={330} />
+            <img src="Images/pw16.jpg" alt="" width={278} />
           </Col>
         </Row>
       </Container>
