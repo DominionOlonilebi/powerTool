@@ -21,7 +21,7 @@ color: rgb(0, 0, 78);
 
 @media (max-width:780px) {
     .map_container .connect_map{
-        width: 280px;
-        height: 350px;
+        width: 300px;
+        height: 380px;
     }
 }
