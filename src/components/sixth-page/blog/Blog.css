@@ -1,0 +1,13 @@
+.blog_container{
+    background-color: rgb(243, 243, 243);
+
+}
+.blog_container .blog_card{
+    background-color: transparent;
+    border: 2px solid rgb(104, 104, 104);
+    border-right: transparent;
+}
+.blog_container h3{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}

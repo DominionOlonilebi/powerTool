@@ -1,0 +1,28 @@
+/* our projects */
+.projects_container{
+    background-color: rgb(1, 1, 54);
+    color: #fff;
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+.projects_container .card{
+    font-size: 13px;
+    line-height: 17px;
+    border: transparent;
+}
+.projects_container .cards_title{
+    font-size: 17px;
+}
+.projects_container h2{
+    padding-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+.projects_container .projects_btn{
+    margin-left: 45%;
+    margin-bottom: 20px;
+    padding: 6px 25px;
+    background-color: #fb6101;
+    border: none;
+}

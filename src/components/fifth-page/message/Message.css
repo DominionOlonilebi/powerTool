@@ -1,0 +1,31 @@
+.message_container{
+    background-color: rgb(233, 232, 232);
+padding-top: 40px;
+padding-bottom: 30px;
+margin-bottom: 80px;
+}
+.message_container h4{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    text-align: center;
+}
+.message_container p{
+    text-align: center;
+    line-height: 22px;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.message_container input{
+    border: transparent;
+    border-radius: 2px;
+}
+.message_container .submit_button{
+    background-color: rgb(0, 0, 78);
+    border: transparent;
+    border-radius: 2px;
+
+}
+.message_container textarea{
+    border: transparent;
+    margin-bottom: 60px;
+}

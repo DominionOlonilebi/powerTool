@@ -33,6 +33,7 @@ const Header = () => {
             </Col>
           </Row>
         </Container>
+        <hr className="text-warning header_line" />
       </Container>
     </div>
   );

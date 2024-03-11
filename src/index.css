@@ -24,6 +24,10 @@ padding: 7px;
     font-weight: 700;
     font-size: 25px;
   }
+  .header_container .header_line{
+    border: 2px solid;
+    margin-bottom: -10px;
+  }
 
 
 /* background */

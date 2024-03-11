@@ -1,0 +1,47 @@
+/* explore section */
+
+.explore_container h2{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}
+.explore_container .explore_card{
+    background-color: rgb(243, 243, 243);
+    border: transparent;
+}
+.explore_container .explore_cards{
+    background-color: rgb(243, 243, 243);
+    border: transparent;
+    margin-bottom: -25px;
+}
+.explore_container .explore_btn{
+    background-color: rgb(1, 1, 54);
+border: none;
+}
+
+
+
+/* apply section */
+.apply_container{
+    text-align: center;
+    background-color: rgb(1, 1, 54);
+    color: #fff;
+    margin-bottom: 80px;
+    padding-bottom: 2px;
+}
+.apply_container .apply_line{
+    margin-top: 60px;
+    border: 5px solid white;
+}
+.apply_container .apply_btn{
+    background-color: #fb6101;
+    border: none;
+    padding: 5px 22px;
+}
+.apply_container p{
+    font-size: 14px;
+    color: rgb(173, 173, 173);
+}
+.apply_container h5{
+    font-weight: 700;
+    font-size: 24px;
+}

@@ -1,0 +1,17 @@
+.question_container{
+    background-color: rgb(243, 243, 243);
+margin-bottom: 60px;
+}
+.question_container h3{
+    padding-top: 30px;
+    text-align: center;
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}
+.question_container .quest_line{
+    border:  2px solid;
+}
+.question_container .accord{
+    border: transparent;
+    background-color: transparent;
+}

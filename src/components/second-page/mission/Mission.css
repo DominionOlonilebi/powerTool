@@ -1,0 +1,96 @@
+.mission_div h2{
+    text-align: center;
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}
+.mission_container p{
+    font-size: 14px;
+}
+.mission_container{
+    background-color: rgb(245, 245, 245);
+  margin-bottom: 50px;
+}
+.mission_div .mission_line{
+    border: 2px solid;
+}
+.mission_div .missions_line{
+    border: 1px solid;
+}
+.mission_container h4{
+    padding-top: 40px;
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    font-size: 19px;
+}
+.mission_container .faclock{
+    background-color: #d45202;
+    color: #fff;
+}
+.mission_container img{
+    margin-top: 40px;
+}
+
+/* our directors */
+.directors_container{
+    background-color: rgb(0, 0, 78);
+    color: #fff;
+    padding-bottom: 30px;
+}
+.directors_container h2{
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+.xline{
+    border: 3px solid;
+    margin-bottom: -1px;
+}
+.directors_container .card{
+    background-color: transparent;
+    color: #fff;
+    border: transparent;
+}
+.directors_container .card .text{
+    font-size: 15px;
+}
+.directors_container .card .texts{
+    font-size: 14px;
+    font-weight: 200;
+    color: silver;
+}
+.directors_container .directors_btn{
+    margin-left: 45%;
+    padding: 6px 22px;
+    background-color: #fb6101;
+    border: none;
+    margin-top: 10px;
+}
+
+/* accreditation */
+.services_heading h1 span{
+    color: #fb6101
+}
+.services_heading h1{
+opacity: 0.2;
+text-align: center;
+margin-top: 30px;
+}
+.services_heading h3{
+    opacity: 0.2;
+text-align: center;
+font-size: 14px;
+}
+.services_heading h4{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.services_heading .line{
+    border: 2px solid;
+}
+ .lines{
+    border: 1px solid;
+    margin-bottom: 70px;
+}

@@ -1,0 +1,47 @@
+/* join our team */
+.join_container{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.join_container h2{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}
+.join_container .join_btn{
+    background-color: rgb(1, 1, 54);
+    color: #fff;
+    border: none;
+}
+
+/* why choose us */
+.why_container{
+    background-color: rgb(243, 243, 243);
+text-align: center;
+}
+.why_container .cards_icon{
+    background-color: #d85301;
+    color: #fff;
+}
+.why_container .cardss_icon{
+    background-color: rgb(1, 1, 54);
+    color: #fff;
+}
+.why_container h6{
+    font-weight: 700;
+}
+.why_line{
+    border: 2px solid;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.why_container h2{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}
+.teams{
+    background-image: linear-gradient(rgba(27, 2, 51, 0.9),rgba(10, 10, 10, 0.9), rgba(7, 7, 7, 0.7)),
+    url(pw7.jpg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+}

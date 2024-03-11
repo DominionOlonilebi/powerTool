@@ -1,0 +1,40 @@
+/* services */
+.services_div h2{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.services_div .services_line{
+    border: 2px solid;
+    margin-bottom: -1px;
+}
+.services_div .service_line{
+    border: 1px solid;
+}
+.services_container{
+    background-color: rgb(243, 243, 243);
+padding-top: 40px;
+}
+
+/* equipment section */
+.equipment_container{
+    margin-top: 60px;
+    background-color: rgb(243, 243, 243);
+}
+.equipment_container .equipment_line{
+border: 2px solid;
+}
+.equipment_container .equip_container{
+    padding-top: 40px;
+}
+
+/* maintenance and repair */
+.maintenance_container{
+    padding-top: 30px;
+}
+.maintenance_line{
+    border: 2px solid;
+    margin-top: 70px;
+}

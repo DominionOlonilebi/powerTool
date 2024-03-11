@@ -1,0 +1,63 @@
+/* review */
+
+.clients_container {
+    text-align: center;
+}
+.clients_container h2{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.clients_container .clients_icon{
+    font-size: 45px;
+    color: #c95c19;
+}
+.clients_container h3{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+}
+
+/* esteemed clients */
+.esteemed_div h5 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    text-align: center;
+}
+.esteemed_client_container{
+    background-color: rgb(245, 245, 245);
+margin-top: -15px;
+margin-bottom: 70px;
+}
+.esteemed_client_container .esteemed_line{
+    border: 1px solid;
+}
+.esteemed_client_container .card{
+    border: transparent;
+}
+
+/* what our clients say */
+.review_container{
+    padding-top: 50px;
+}
+.review_container h3{
+    margin-bottom: 40px;
+    font-weight: 700;
+text-align: center;
+}
+.review_col .text {
+    font-size: 13px;
+}
+.review_col{
+    margin-left: -25px;
+}
+.review_col .review_line{
+    border: 2px solid;
+}
+.review_col .card{
+    padding-top: 8px;
+    border-radius: 0px;
+    border: transparent;
+}

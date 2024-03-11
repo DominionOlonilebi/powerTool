@@ -1,0 +1,61 @@
+.success_container .text{
+    color: rgb(0, 0, 78);
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+}
+.success_container span{
+    color: rgb(0, 0, 78);
+font-weight: 700;
+}
+.success_container .card{
+    margin-top: -90px;
+    margin-bottom: -30px;
+    border: transparent;
+}
+
+/* why partner with us */
+.partner_container{
+    background-color: rgb(0, 0, 78);
+color: #fff;
+
+}
+.partner_container h4{
+    padding-top: 60px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.partner_container .story_btn{
+    margin-left: 40%;
+    background-color: #fb6101;
+    border: none;
+    padding: 5px 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.partner_container .cards_icon{
+    background-color: #c95c19;
+}
+
+/* start your journey with us */
+.journey_container{
+    background-image: linear-gradient(rgba(218, 218, 218, 0.9),rgba(197, 197, 197, 0.9), rgba(211, 209, 209, 0.7)),
+    url(pw13.jpg);
+    background-size: cover;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.journey_container h4{
+    color: rgb(0, 0, 78);
+font-weight: 700;
+}
+.journey_container .journey_btn{
+    background-color: #fb6101;
+    border: none;
+    padding: 5px 22px;
+}
+.journey_container p {
+    line-height: 20px;
+    font-size: 15px;
+}
