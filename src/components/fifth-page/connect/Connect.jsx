@@ -14,10 +14,10 @@ const Connect = () => {
         </p>
 
         <Row>
-          <Col md={7}>
+          <Col md={8}>
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7914.061118635292!2d3.8813!3d7.350465!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10398d940d6ae62f%3A0x56d4491dd5ea662f!2sMolete%20Baptist%20Church%20Ibadan!5e0!3m2!1sen!2sng!4v1704263350864!5m2!1sen!2sng"
-              width={600}
+              width={550}
               height={400}
               style={{ border: "0" }}
               allowfullscreen=""
@@ -25,7 +25,7 @@ const Connect = () => {
               referrerpolicy="no-referrer-when-downgrade"
             ></iframe>
           </Col>
-          <Col md={5}>
+          <Col md={4}>
             <h6>
               <b>Address</b>
             </h6>
@@ -44,9 +44,9 @@ const Connect = () => {
               <b>Social media</b>
             </h6>
             <Col md={3} className="div_icon py-1">
-              <FaInstagram className="mx-2" />
-              <FaFacebook className="mx-2" />
-              <FaTwitter className="mx-2" />
+              <FaInstagram className="mx-1" />
+              <FaFacebook className="mx-1" />
+              <FaTwitter className="mx-1" />
             </Col>
           </Col>
         </Row>
